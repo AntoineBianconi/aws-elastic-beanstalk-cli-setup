@@ -66,6 +66,5 @@ function print_python_path_export_message() {
 }
 
 change_to_scripts_directory
-install_python
 install_ebcli
 print_python_path_export_message
